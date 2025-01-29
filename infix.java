@@ -159,6 +159,9 @@ class Operator extends Token {
         this.operator = operator;
     }
 
+    /**
+     * @return
+     */
     public int precedence() {
         return switch (operator) {
             case '+', '-' -> 1;
