@@ -3,9 +3,9 @@ Programming Concepts and Methodology II
 
 Topics Covered
 - Object-Oriented Techniques  
-  Application of object-oriented principles for systematic problem analysis and design. This includes the use of classes, objects, inheritance, polymorphism, and encapsulation.
+  Application of object-oriented principles for systematic problem analysis and design. This included the use of classes, objects, inheritance, polymorphism, and encapsulation.
 - Program Design  
-  Emphasis on creating larger programs using abstraction to simplify and manage complexity. This involves creating clear, structured designs and using object-oriented design patterns.
+  Emphasis on creating larger programs using abstraction to simplify and manage complexity. This involved creating clear, structured designs and using object-oriented design patterns.
 - Algorithm Analysis and Big-O Notation  
   Introduction to algorithm analysis, focusing on efficiency. Big-O notation was used to evaluate the time and space complexity of algorithms.
 - Advanced Language Features  
